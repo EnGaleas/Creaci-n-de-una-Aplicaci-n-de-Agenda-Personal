@@ -1,0 +1,22 @@
+[
+  {
+    "fecha": "2025-09-17",
+    "hora": "09:00",
+    "descripcion": "Ejemplo: Revisión tarea"
+  },
+  {
+    "fecha": "2025-09-18",
+    "hora": "14:30",
+    "descripcion": "Ejemplo: Reunión de grupo"
+  },
+  {
+    "fecha": "2025-09-19",
+    "hora": "17:00",
+    "descripcion": "Ejemplo: Entrega práctica"
+  },
+  {
+    "fecha": "2025-09-20",
+    "hora": "12:00",
+    "descripcion": "Reunion Familiar en Guayaquil"
+  }
+]
